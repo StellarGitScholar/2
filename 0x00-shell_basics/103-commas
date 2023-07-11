@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -vd .[^.]* * | tr '\n' ',' | sed 's/,$/\n/'
+ls -v .[^.]* * | tr '\n' ',' | sed 's/,$/\n/'
