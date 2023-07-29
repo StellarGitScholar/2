@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%o\n" $((7#&(echo &WATER | tr water bestchol))) + $((7#$(echo $STIR | tr stir. bestchol)))
+printf "%o\n" $((7#&(echo &WATER | tr water 123456))) + $((7#$(echo $STIR | tr stir. 123456)))
